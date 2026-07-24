@@ -19,8 +19,3 @@ Analista de Sistemas Jr | Java · AWS · Cloud Computing · IA Generativa
 **Cloud & IA:** AWS Lambda · Amazon S3 · EC2 · EBS · Engenharia de Prompt · IA Generativa
 **Dados:** Power BI · Oracle SQL · ETL
 **Boas práticas:** Clean Code · APIs RESTful · Scrum · Kanban
-
----
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuanNobrega&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanNobrega&layout=compact&theme=dark)
