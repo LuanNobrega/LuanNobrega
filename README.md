@@ -14,7 +14,7 @@ Analista de Sistemas Jr | Java · AWS · Cloud Computing · IA Generativa
 
 #### 🛠️ Stack & Ferramentas
 
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+![Minha Stack](https://skillicons.dev/icons?i=java,aws,python,js,react,html,css,git)
 
 **Cloud & IA:** AWS Lambda · Amazon S3 · EC2 · EBS · Engenharia de Prompt · IA Generativa
 **Dados:** Power BI · Oracle SQL · ETL
