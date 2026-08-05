@@ -11,8 +11,10 @@ Busco oportunidades como Analista de Sistemas, Desenvolvedor Java ou Analista de
 
 #### 🛠️ Stack & Ferramentas
 
-![Minha Stack](https://skillicons.dev/icons?i=java,aws,python,js,react,html,css,git)
+![Minha Stack](https://skillicons.dev/icons?i=java,aws,html,css,git)
 
 **Cloud & IA:** AWS · Engenharia de Prompt · IA Generativa
+
 **Dados:** Power BI · Excel
+
 **Boas práticas:** Clean Code · Scrum
